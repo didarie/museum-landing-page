@@ -3,7 +3,7 @@
 A fully responsive and interactive landing page for a museum, designed and implemented according to the Figma design. This project features multiple sections such as the header, event blocks, gallery with a slider, subscription form, and footer. The page adapts seamlessly to various screen sizes, including desktop, tablet, and mobile.
 
 ## Demo
-🔗 [Live Preview](https://didarie.github.io/museum-landing-page/)
+🔗 [Live Preview](https://didarie.github.io/museum_landing-page/)
 
 ## Design Reference
 🖼 [Figma Mockup](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0%3A1)
